@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust when dealing with mutable references. The code attempts to create multiple mutable references to the same variable, which is disallowed by the Rust compiler to prevent data races. The solution shows how to correctly handle mutable references to avoid this error.
